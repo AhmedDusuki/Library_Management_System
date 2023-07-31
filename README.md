@@ -1,0 +1,2 @@
+# Library_Management_System
+OOP Java library mangement system using Swing. Includes Admin, Librarians, Students, Books. Can lend out books, track dates, etc.. Serializes data to save and load application state.
